@@ -1,5 +1,5 @@
-//Nissan Leaf BMS 30KWH data request and read via CANBUS
-//
+Nissan Leaf BMS 30KWH data request and read via CANBUS
+
 //Written by David Blackhurst 27/7/2020
 //
 //Good to use on a personal basis, not for commercial use unless preagreed with myself
